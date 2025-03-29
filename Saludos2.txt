@@ -1,8 +1,6 @@
 Inico saludos
 
-<<<<<<< HEAD
-Saludos gente, Bryan Santiagos.
-=======
+
 Saludos de Carlos Orozco
 
 
@@ -10,4 +8,6 @@ Saludos de David
 
 
 Segundo Saludo de David
->>>>>>> 4671b9e07c0e7b47e5956406116c8bf47dcb293c
+
+Saludos Bryan Santiagos
+
